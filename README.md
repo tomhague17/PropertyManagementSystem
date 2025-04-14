@@ -11,6 +11,7 @@ The system allows for renting of properties (either Villa or Apartment). You can
 - Issue rental contracts for a given amount of time
 - Terminate rentals 
 - Find a list of properties with rentals expiring soon
+- Access HashMaps for all the tenants, properties and rentals on the system
 - See how many properties are currently available for rent
 
 Both property types are handled using an interface-based hierarchy, making it easier to extend or adapt the system in the future.
@@ -25,4 +26,8 @@ Both property types are handled using an interface-based hierarchy, making it ea
 - Utilise relevant classes from the Java Collections Framework
 - Testing using the Assertions class framework
 
+## How to run the project
 
+- Open the repo in an IDE, I used IntelliJ to create the project.
+- Create a main class and access the methods for the functionalities using PropertyManager.getInstance().methodName
+- Run the test classes that are included
