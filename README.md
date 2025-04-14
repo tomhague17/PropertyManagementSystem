@@ -21,7 +21,7 @@ Both property types are handled using an interface-based hierarchy, making it ea
 - Handle different property types using polymorphism and factories to guarentee uniqueness of object instantiation
 - Programming through interfaces, creating an easily extendable structure for adding future features
 - Defensive programming techniques (immutability, defensive copying, null checks, error handling, parameter validation, appropriate accessors and modifiers) to minimise risks of bugs and runtime errors
-- Overriding Object class where appropriate
+- Override Object class where appropriate
 - Utilise relevant classes from the Java Collections Framework
 - Testing using the Assertions class framework
 
