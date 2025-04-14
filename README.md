@@ -30,4 +30,4 @@ Both property types are handled using an interface-based hierarchy, making it ea
 
 - Open the repo in an IDE, I used IntelliJ to create the project.
 - Create a main class and access the methods for the functionalities using PropertyManager.getInstance().methodName
-- Run the test classes that are included
+- Alternatively, run the test classes that are included
